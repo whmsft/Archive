@@ -5,4 +5,4 @@
 
 <b> All repositories here will certainly be unavailable standalone.</b>
 
-\- 2023/18/05 16:30 CEST (@whmsft)
+Following this great Archive, I deleted 10 of my "ugly" repositories on this day (18th of May, 2023)
